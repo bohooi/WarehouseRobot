@@ -1,0 +1,8 @@
+prefix=/home/hoon/catkin_ws/devel
+
+Name: sending_navi_goals
+Description: Description of sending_navi_goals
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
